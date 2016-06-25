@@ -1,1 +1,3 @@
-# the-polish-cafe
+# The Polish Cafe
+
+Website for a Polish Cafe
