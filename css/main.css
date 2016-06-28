@@ -1,7 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto+Condensed);
 @import url(https://fonts.googleapis.com/css?family=Poiret+One);
 
-/*.......................................................................................................................*/
+/*.......................................................................................................................
+Body CSS
+.......................................................................................................................*/
 
 body, html {
         height: 100%;
@@ -114,7 +116,7 @@ ul {
 
 .logo {
         height: 100%;
-        font-family: 'Poiret One', cursive;
+        font-family: 'Poiret One', cursive !important;
         font-size: 60px;
         line-height: 60px;
         text-align: center;
@@ -166,7 +168,7 @@ ul {
         
         .logo {
                 height: 100%;
-                font-family: 'Poiret One', cursive;
+                font-family: 'Poiret One', cursive !important;
                 font-size: 25px;
                 line-height: 30px;
                 text-align: left;
@@ -229,7 +231,8 @@ ul {
 
 .show-nav {
         display: none;
-        background: orange;
+        background: #F89F3D;
+        cursor: pointer;
 }
 
 /*.............................................................................................................*/
@@ -257,7 +260,7 @@ ul {
 @media only screen and (max-width: 1260px) {
         .logo {
                 height: 100%;
-                font-family: 'Poiret One', cursive;
+                font-family: 'Poiret One', cursive !important;
                 font-size: 50px;
                 line-height: 60px;
                 text-align: center;
@@ -269,7 +272,7 @@ ul {
 @media only screen and (max-width: 1080px) {
         .logo {
                 height: 100%;
-                font-family: 'Poiret One', cursive;
+                font-family: 'Poiret One', cursive !important;
                 font-size: 40px;
                 line-height: 60px;
                 text-align: center;
@@ -281,7 +284,7 @@ ul {
 @media only screen and (max-width: 880px) {
         .logo {
                 height: 100%;
-                font-family: 'Poiret One', cursive;
+                font-family: 'Poiret One', cursive !important;
                 font-size: 33px;
                 line-height: 60px;
                 text-align: center;
@@ -313,7 +316,7 @@ ul {
         
         .logo {
                 height: 100%;
-                font-family: 'Poiret One', cursive;
+                font-family: 'Poiret One', cursive !important;
                 font-size: 33px;
                 line-height: 30px;
                 text-align: left;
